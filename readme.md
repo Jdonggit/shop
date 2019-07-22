@@ -18,6 +18,6 @@
 ![image](https://github.com/Jdonggit/shop/blob/master/%E5%BE%8C%E5%8F%B0.png)
 
 後台 - 訂單管理
-![image](https://github.com/Jdonggit/shop/blob/master/%E8%A8%82%E5%96%AE.png)
+![image](https://github.com/Jdonggit/shop/blob/master/%E8%A8%82%E5%96%AE%E7%AE%A1%E7%90%86.png)
 
 
