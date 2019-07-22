@@ -14,6 +14,8 @@
 前台 - 我的購物車
 ![image](https://github.com/Jdonggit/shop/blob/master/%E6%88%91%E7%9A%84%E8%B3%BC%E7%89%A9%E8%BB%8A.png)
 
+前台 - 我的訂單
+![image](https://github.com/Jdonggit/shop/blob/master/%E6%88%91%E7%9A%84%E8%A8%82%E5%96%AE.png)
 
 
 後台 - 會員管理
