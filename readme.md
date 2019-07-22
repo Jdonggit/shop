@@ -1,4 +1,4 @@
-# SHOP
+# 小小電商練習作品
 
 > A Laravel project
 
